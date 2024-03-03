@@ -7,7 +7,7 @@ body { background-color: #5280C5;
 #wrapper { background-color: #F0F0F0;
 }
 header { background-color: #000066;
-         background-image: url(/Users/ainsleymonroe/lab6/fishcreeklogo-1.gif);
+         background-image: url(https://github.com/ainsleymonroe/Lab-7/blob/main/fishcreeklogo.gif);
 		 background-position: center;
 		 background-repeat: no-repeat;
 		 color: #F0F0F0;
@@ -115,7 +115,7 @@ clear: right;
 
 
 @media (min-width: 600px) { 
-		header { background-image: url(/Users/ainsleymonroe/lab6/fishcreeklogo-1.gif); }
+		header { background-image: url(https://github.com/ainsleymonroe/Lab-7/blob/main/fishcreeklogo.gif); }
 		h1        { font-size: 3em; }
 		nav ul   { flex-direction: row;
 		        flex-wrap: nowrap;
